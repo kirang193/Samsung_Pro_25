@@ -9,3 +9,13 @@ Whether you're just starting out or brushing up on common patterns, these proble
 <pre>git clone https://github.com/your-username/samsung-pro-test-practice.git</pre>
 <pre>https://github.com/teja963/Advanced-DSA-and-CS-Theory/blob/master/Samsung%20R%20%26%20D/SwC-Pro-main/</pre>
 <pre>https://github.com/NayakPenguin/Samsung-Pro-Test/blob/main/</pre>
+
+
+---
+
+## ⚠️ Disclaimer
+
+The problems and solutions in this repository are provided *as-is* and are based on constraints given during our specific test experiences.  
+You are advised to **verify each solution** and **adapt your approach** if problem constraints differ or are more complex.
+
+**Trust at your own risk. Please do your own validation and testing.**
