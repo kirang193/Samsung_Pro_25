@@ -1,3 +1,10 @@
+// https://codeforces.com/blog/entry/63962
+/*
+Given a tree with n vertices, where each vertex has a number ai written on it. 
+Distance between two vertices is defined as the number of edges on the path between them. 
+You have to choose a vertex v such that d1 × a1 + d2 × a2 + d3 × a3 + ... ... + dn × an is maximized, 
+where di denotes the distance between vertex i and vertex v. You have to print this maximum value.
+*/
 #include <bits/stdc++.h>
 using namespace std;
  
