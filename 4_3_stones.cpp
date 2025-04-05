@@ -2,6 +2,9 @@
  two neighbours and it's zero if no neighbour.
 Within a given sequence of stones, find minimum cost to remove all of them.
  Each stone had different costs for each neighbour condition 
+
+ https://codeforces.com/blog/entry/117311
+ see comments (approach by vgtcross)
 */
 
 #include <iostream>
