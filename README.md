@@ -22,7 +22,7 @@ Clone the repository to get started:
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ NOTE
 
 The problems and solutions in this repository are provided *as-is* and are based on constraints given during our specific test experiences.  
 You are advised to **verify each solution** and **adapt your approach** if problem constraints differ or are more complex.
