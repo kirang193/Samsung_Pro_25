@@ -28,3 +28,9 @@ The problems and solutions in this repository are provided *as-is* and are based
 You are advised to **verify each solution** and **adapt your approach** if problem constraints differ or are more complex.
 
 **Trust at your own risk. Please do your own validation and testing.**
+
+---
+
+### 📣 Help Others
+
+If you found this helpful, consider ⭐ starring the repo and sharing it with friends who are preparing for Samsung placements!
