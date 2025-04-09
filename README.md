@@ -27,7 +27,16 @@ Clone the repository to get started:
 The problems and solutions in this repository are provided *as-is* and are based on constraints given during our specific test experiences.  
 You are advised to **verify each solution** and **adapt your approach** if problem constraints differ or are more complex.
 
-**Trust at your own risk. Please do your own validation and testing.**
+
+
+- Samsung PRO Test
+- Samsung R&D
+- SwC-Pro
+- Samsung placement preparation
+- Samsung pre-onborading test
+- samsung coding questions
+- samsung online test practice
+- samsung professional competency test
 
 ---
 
