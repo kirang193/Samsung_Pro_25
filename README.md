@@ -10,12 +10,13 @@ This repository is a **curated collection of coding problems and solutions** spe
 - 💡 Dynamic Programming, Graphs, Greedy, and more
 - 🧠 Problem-solving patterns tailored for Samsung's coding rounds
 
-### 📂 How to Use
-
 Clone the repository to get started:
+<pre>git clone https://github.com/kirang193/samsung-pro-coding-questions</pre>
+
+---
+### 📂 Other Useful Resources
 
 
-<pre>git clone https://github.com/kirang193/Samsung_Pro_25</pre>
 <pre>https://github.com/teja963/Advanced-DSA-and-CS-Theory/blob/master/Samsung%20R%20%26%20D/SwC-Pro-main/</pre>
 <pre>https://github.com/NayakPenguin/Samsung-Pro-Test/blob/main/</pre>
 
