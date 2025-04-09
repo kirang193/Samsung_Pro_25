@@ -1,9 +1,18 @@
-# Samsung PRO Test Practice Questions
+# Samsung PRO Test Practice Questions – Coding Problems & Solutions
 
-Welcome to the **Samsung PRO Test Practice Questions** repository!  
-This repo contains a collection of coding problems curated specifically for those preparing for the **Samsung PRO Test**.
+Welcome to the **Samsung PRO Test Practice Questions** repository!
 
-Whether you're just starting out or brushing up on common patterns, these problems are designed to help you improve your problem-solving skills and get comfortable with the types of questions typically asked in the test.
+This repository is a **curated collection of coding problems and solutions** specifically designed to help you **prepare for the Samsung R&D (SwC-Pro) Online Test** and technical coding interviews.
+
+### 🚀 What You'll Find Here:
+- ✅ Samsung Pro Test Coding Questions
+- 📚 Practice Problems with Solutions in C++
+- 💡 Dynamic Programming, Graphs, Greedy, and more
+- 🧠 Problem-solving patterns tailored for Samsung's coding rounds
+
+### 📂 How to Use
+
+Clone the repository to get started:
 
 
 <pre>git clone https://github.com/kirang193/Samsung_Pro_25</pre>
